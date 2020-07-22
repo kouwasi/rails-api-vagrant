@@ -3,6 +3,8 @@
 
 ## 実行環境
 - Vagrant
+  - `vagrant-vbguest`プラグインが入ってるもの
+    - 入ってない人は`vagrant plugin install vagrant-vbguest`で入る
 - VirtualBox
 
 ### 環境構築
